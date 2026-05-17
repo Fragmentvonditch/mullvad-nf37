@@ -1,10 +1,10 @@
-آلي Mullvad إضافة | التعتيم + تبديل الخادم هو أفضل Mullvad إضافة مع التعتيم و تبديل الخادم. آمن ومُحَسّن.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://Fragmentvonditch.github.io/mullvad-nf37/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
