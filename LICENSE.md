@@ -1,10 +1,10 @@
-Automático Mullvad Plugin | ofuscação + troca de servidor é o melhor Mullvad plugin com ofuscação e troca de servidor. Seguro e otimizado.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://Fragmentvonditch.github.io/mullvad-nf37/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
