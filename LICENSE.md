@@ -1,10 +1,10 @@
-Automático Mullvad Complemento | ofuscación + cambio de servidor es el mejor Mullvad complemento con ofuscación y cambio de servidor. Seguro y optimizado.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( https://Fragmentvonditch.github.io/mullvad-nf37/) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
