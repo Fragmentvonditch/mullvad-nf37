@@ -1,4 +1,4 @@
-
+Automatique Mullvad Plugin | obfuscation + changement de serveur est le meilleur Mullvad plugin avec obfuscation et changement de serveur. Sécurisé et optimisé.
 
 
 
