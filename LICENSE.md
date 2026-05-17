@@ -1,4 +1,4 @@
-
+Automatic Mullvad Plugin | obfuscation + server switching is the best Mullvad plugin with obfuscation and server switching. Secure and optimized.
 
 
 
